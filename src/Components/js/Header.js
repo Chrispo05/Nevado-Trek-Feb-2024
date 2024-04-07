@@ -155,7 +155,7 @@ function Header(props = "") {
 
                         <a className='textDecorationNone hover-scale-02 flex-row ' rel="noopener noreferrer"
                             target={"_blank"}
-                            href='https://wa.me/message/2IVZNZSIXXZYC1'>
+                            href='https://wa.me/573147995791'>
                             <img className='headerWhatsappIconImg'
                                 src={whatsappIcon}
                                 alt="whatsappIcon"/>
@@ -317,7 +317,7 @@ function HeaderEng(props) { // script for the hamburguer change state, adding op
                         <a className='textDecorationNone hover-scale-02 flex-row '
                             target={"_blank"}
                             rel="noopener noreferrer"
-                            href='https://wa.me/message/2IVZNZSIXXZYC1'>
+                            href='https://wa.me/573147995791'>
                             <img className='headerWhatsappIconImg'
                                 src={whatsappIcon}
                                 alt="whatsappIcon"/>

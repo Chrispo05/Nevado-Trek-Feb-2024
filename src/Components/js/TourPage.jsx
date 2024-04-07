@@ -134,7 +134,7 @@ function Tour() {
                         <p className="font-18 mt-6 color-a">¿Como  <span className="font-600">reservar? </span></p>
                         <div className="flex-column">
 
-                            <a className="flex-row TourPagePriceSectionA" target="_blank" rel="noopener noreferrer" href="https://wa.me/message/2IVZNZSIXXZYC1" >
+                            <a className="flex-row TourPagePriceSectionA" target="_blank" rel="noopener noreferrer" href="https://wa.me/573147995791" >
                                 <img src={iconWhatsapp} alt="whatsappLogo" />
                                 <p className="color-b ml-05em font-600">Reserva al Whatsapp!</p>
                             </a>
@@ -373,7 +373,7 @@ function Tour() {
                             <p>9 o más personas: <span className="font-600 color-b"> {tourFound.price5to8} </span> c/u.</p>
                             <div className="flex-column">
                                 
-                                <a className="flex-row TourPagePriceSectionA" target="_blank" rel="noopener noreferrer" href="https://wa.me/message/2IVZNZSIXXZYC1" >
+                                <a className="flex-row TourPagePriceSectionA" target="_blank" rel="noopener noreferrer" href="https://wa.me/573042085501" >
                                     <img src={iconWhatsapp} alt="whatsappLogo" />
                                     <p className="color-b ml-05em font-600">Reserva al Whatsapp!</p>
                                 </a>
@@ -446,7 +446,7 @@ function Tour() {
                                     <p className="color-h ">Desde: <span className="font-600 color-b"> {tourFound.price1PaxESP} </span> c/u.</p>
                                     <div className="price-mobile__button-container flex-column ">
 
-                                        <a className="flex-row reservation-button color-b    TourPagePriceSectionA" target="_blank" rel="noopener noreferrer" href="https:/wa.link/3cqr6d" >
+                                        <a className="flex-row reservation-button color-b    TourPagePriceSectionA" target="_blank" rel="noopener noreferrer" href="https://wa.me/573147995791" >
                                             <img className="whatsapp-tour-reservation-icon" src={iconWhatsapp} alt="whatsappLogo" />
                                             <p className="ml-05em font-600 TourPagePriceSectionButtonP">Reserva al Whatsapp!</p>
                                         </a>
@@ -471,7 +471,7 @@ function Tour() {
                                 <p className="hover-scale-005 TourPagePriceText">Desde: <span className="font-600 color-b"> {tourFound.price1PaxESP} </span> c/u.</p>
                                 <div className="flex-column">
 
-                                    <a className="flex-row reservation-button color-b    TourPagePriceSectionA" target="_blank" rel="noopener noreferrer" href="https:/wa.link/3cqr6d" >
+                                    <a className="flex-row reservation-button color-b    TourPagePriceSectionA" target="_blank" rel="noopener noreferrer" href="https://wa.me/573147995791" >
                                         <img className="whatsapp-tour-reservation-icon" src={iconWhatsapp} alt="whatsappLogo" />
                                         <p className="ml-05em font-600 TourPagePriceSectionButtonP">Reserva al Whatsapp!</p>
                                     </a>
@@ -590,7 +590,7 @@ function TourEng() {
                         <p className="font-18 mt-6 color-a">¿How to  <span className="font-600">Book? </span></p>
                         <div className="flex-column">
 
-                            <a className="flex-row TourPagePriceSectionA" target="_blank" rel="noopener noreferrer" href="https:/wa.link/3cqr6d" >
+                            <a className="flex-row TourPagePriceSectionA" target="_blank" rel="noopener noreferrer" href="https://wa.me/573147995791" >
                                 <img src={iconWhatsapp} alt="whatsappLogo" />
                                 <p className="color-b ml-05em font-600">Book via Whatsapp!</p>
                             </a>
@@ -823,7 +823,7 @@ function TourEng() {
                             <p>9 or more Pax: <span className="font-600 color-b"> {tourFound.price5to8USD} </span> each.</p>
                             <div className="flex-column">
                                 
-                                <a className="flex-row TourPagePriceSectionA" target="_blank" rel="noopener noreferrer" href="https://wa.me/message/2IVZNZSIXXZYC1" >
+                                <a className="flex-row TourPagePriceSectionA" target="_blank" rel="noopener noreferrer" href="https://wa.me/573042085501" >
                                     <img src={iconWhatsapp} alt="whatsappLogo" />
                                     <p className="color-b ml-05em font-600">Book it via Whatsapp!</p>
                                 </a>
@@ -891,7 +891,7 @@ function TourEng() {
                                     <p className="color-h ">From: <span className="font-600 color-b"> {tourFound.price1PaxUSD} </span> Each.</p>
                                     <div className="price-mobile__button-container flex-column ">
 
-                                        <a className="flex-row reservation-button color-b    TourPagePriceSectionA" target="_blank" rel="noopener noreferrer" href="https:/wa.link/3cqr6d" >
+                                        <a className="flex-row reservation-button color-b    TourPagePriceSectionA" target="_blank" rel="noopener noreferrer" href="https://wa.me/573147995791" >
                                             <img className="whatsapp-tour-reservation-icon" src={iconWhatsapp} alt="whatsappLogo" />
                                             <p className="ml-05em font-600 TourPagePriceSectionButtonP">Book it on whatsapp!</p>
                                         </a>
@@ -914,7 +914,7 @@ function TourEng() {
                                 <p className="hover-scale-005 TourPagePriceText">From: <span className="font-600 color-b"> {tourFound.price1PaxUSD} </span> Each.</p>
                                 <div className="flex-column">
 
-                                    <a className="flex-row reservation-button color-b    TourPagePriceSectionA" target="_blank" rel="noopener noreferrer" href="https:/wa.link/3cqr6d" >
+                                    <a className="flex-row reservation-button color-b    TourPagePriceSectionA" target="_blank" rel="noopener noreferrer" href="https://wa.me/573147995791  " >
                                         <img className="whatsapp-tour-reservation-icon" src={iconWhatsapp} alt="whatsappLogo" />
                                         <p className="ml-05em font-600 TourPagePriceSectionButtonP">Book it on Whatsapp!</p>
                                     </a>

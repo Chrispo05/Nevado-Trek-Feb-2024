@@ -11,7 +11,7 @@ function Footer() {
 		<div className="flex-row">
 			<div className="RMD-hide"> 
 				<link  rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"/>
-					<a href="https://wa.me/message/2IVZNZSIXXZYC1" className="float flex justify-center items-center" rel="noopener noreferrer" target="_blank">
+					<a href="https://wa.me/573147995791" className="float flex justify-center items-center" rel="noopener noreferrer" target="_blank">
 						<i className="fa fa-whatsapp my-float"></i>
 					</a>
 			</div>
@@ -36,7 +36,7 @@ function Footer() {
 
 					<p className="footer-links font-400">
 						<p>Salento, Quindío </p>
-						<a href="tel:573042085501" className="font-600">+57 3042085501</a>
+						<a href="tel:3147995791" className="font-600">+57 314 799 5791</a>
 						<p>nevadotrek.info@gmail.com</p>
 					
 					</p>
@@ -70,7 +70,7 @@ function Footer() {
 					<div className="footer-icons">
 						<p className="color-a font-600 font-18">Síguenos</p>
 						<a href="https://instagram.com/nevadotrek?igshid=YmMyMTA2M2Y=" target={"_blank"} rel="noopener noreferrer"><img src={iconInstagram} alt="iconoInstagram"/></a>
-						<a href="http://wa.link/3cqr6d" target={"_blank"}   rel="noopener noreferrer"><img src={iconWhatsapp} alt="iconoInstagram"/></a>
+						<a href="https://wa.me/573147995791" target={"_blank"}   rel="noopener noreferrer"><img src={iconWhatsapp} alt="iconoInstagram"/></a>
 						<a href="https://www.facebook.com/Nevado-Trek-111640871536730" target={"_blank"} rel="noopener noreferrer"><img src={iconFacebook} alt="iconoInstagram"/></a>
 						
 					
@@ -88,7 +88,7 @@ function FooterEng() {
 		<div className="flex-row">
 			<div className="RMD-hide"> 
 				<link  rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"/>
-					<a href="https://wa.link/3cqr6d" className="float flex justify-center items-center" rel="noopener noreferrer" target="_blank">
+					<a href="https://wa.me/573147995791" className="float flex justify-center items-center" rel="noopener noreferrer" target="_blank">
 						<i className="fa fa-whatsapp my-float"></i>
 					</a>
 			</div>
@@ -148,7 +148,7 @@ function FooterEng() {
 					<div class="footer-icons">
 						<p className="color-a font-600 font-18">Follow us!</p>
 						<a href="https://instagram.com/nevadotrek?igshid=YmMyMTA2M2Y=" target={"_blank"} rel="noopener noreferrer"><img src={iconInstagram} alt="iconoInstagram"/></a>
-						<a href="https://wa.link/3cqr6d" target={"_blank"}   rel="noopener noreferrer"><img src={iconWhatsapp} alt="iconoInstagram"/></a>
+						<a href="https://wa.me/573147995791" target={"_blank"}   rel="noopener noreferrer"><img src={iconWhatsapp} alt="iconoInstagram"/></a>
 						<a href="https://www.facebook.com/Nevado-Trek-111640871536730" target={"_blank"} rel="noopener noreferrer"><img src={iconFacebook} alt="iconoInstagram"/></a>
 						
 					

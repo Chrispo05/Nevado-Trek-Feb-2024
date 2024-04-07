@@ -22,7 +22,7 @@ function ContactSection() {
                     <div className="flex-column lg-mt-32  ">
                         <p className="mb-0 color-a width-80">La manera más facil de contactarnos es a través de <span className="font-600 ">Whatsapp</span> </p>
                         <div>
-                            <a href="https:/wa.link/3cqr6d" target={"_blank"}   rel="noopener noreferrer" className="hover-scale-01 flex-row textDecorationNone border-rounded-g10   color-b font-600 mt-10 ">
+                            <a href="https://wa.me/573147995791" target={"_blank"}   rel="noopener noreferrer" className="hover-scale-01 flex-row textDecorationNone border-rounded-g10   color-b font-600 mt-10 ">
                                 <img className="ml-6" src={iconWhatsapp} alt="iconWhatsapp" />
                                 <p className="mr-6 ml-6"> +57 314 799 5791</p>
 
@@ -92,7 +92,7 @@ function ContactSectionEng() {
                     <div className="flex-column lg-mt-32  ">
                         <p className="mb-0 color-a width-80">The easiest way to contact us is via <span className="font-600 ">Whatsapp</span> </p>
                         <div>
-                            <a href="https:/wa.link/3cqr6d" target={"_blank"}   rel="noopener noreferrer" className="hover-scale-01 flex-row textDecorationNone border-rounded-g10   color-b font-600 mt-10 ">
+                            <a href="https://wa.me/573147995791" target={"_blank"}   rel="noopener noreferrer" className="hover-scale-01 flex-row textDecorationNone border-rounded-g10   color-b font-600 mt-10 ">
                                 <img className="ml-6" src={iconWhatsapp} alt="iconWhatsapp" />
                                 <p className="mr-6 ml-6"> +57 314 799 5791</p>
 
@@ -127,7 +127,7 @@ function ContactSectionEng() {
                     <div className="flex-column lg-mt-32   ">
                         <p className="mb-0 color-a width-80">Finally, give us a <span className="font-600 ">call.</span> </p>
                         <div className="flex-row mt--8">
-                        <p className="color-b font-600">+57 314 799 5791</p>
+                        <p className="color-b font-600">+57 314 799 5791    </p>
                         
                         </div>
                 
