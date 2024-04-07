@@ -23,7 +23,7 @@ function Footer() {
 			</div>
 			<div className="RMD-hide"> 
 				<link  rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"/>
-					<a href="tel:+573042085501" className="float3 flex justify-center items-center" rel="noopener noreferrer" target="_blank">
+					<a href="tel:+573147995791" className="float3 flex justify-center items-center" rel="noopener noreferrer" target="_blank">
 						<i className="fa fa-phone my-float"></i>
 					</a>
 			</div>
@@ -36,7 +36,7 @@ function Footer() {
 
 					<p className="footer-links font-400">
 						<p>Salento, Quindío </p>
-						<a href="tel:3147995791" className="font-600">+57 314 799 5791</a>
+						<a href="tel:+573147995791" className="font-600">+57 314 799 5791</a>
 						<p>nevadotrek.info@gmail.com</p>
 					
 					</p>
@@ -100,7 +100,7 @@ function FooterEng() {
 			</div>
 			<div className="RMD-hide"> 
 				<link  rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"/>
-					<a href="tel:+573042085501" className="float3 flex justify-center items-center" rel="noopener noreferrer" target="_blank">
+					<a href="tel:+573147995791" className="float3 flex justify-center items-center" rel="noopener noreferrer" target="_blank">
 						<i className="fa fa-phone my-float"></i>
 					</a>
 			</div>
@@ -114,7 +114,7 @@ function FooterEng() {
 
 					<p class="footer-links font-400">
 						<p>Salento, Quindío </p>
-						<a href="tel:573042085501" className="font-600">+57 3042085501</a>
+						<a href="tel:+573147995791" className="font-600">+57 3147995791</a>
 						<p>nevadotrek.info@gmail.com</p>
 					
 					</p>

@@ -61,7 +61,7 @@ function HomeHeroCarousel() {
             </Carousel>
            
 
-            <div className='HomeHeroMessageContainer color-a font-20' >
+            <div className='HomeHeroMessageContainer flex-row text-center color-a font-20' >
                 <p className='HomeHeroTitle ' > <span className='font-600  color-b'>Aventura</span> es un estilo de vida!</p>
                 {/* <p className='HomeHeroSlogan'>Nevado, Páramo, Cocora... </p> */}
                 <p className='HomeHeroMessageP3 ' >ven a <span className='color-b font-600'>vivir!</span> </p>
@@ -132,7 +132,7 @@ function HomeHeroCarouselEng() {
             </Carousel>
            
 
-            <div className='HomeHeroMessageContainer color-a' >
+            <div className='HomeHeroMessageContainer flex-row text-center color-a' >
                 <p className='HomeHeroTitle' > <span className='font-600 font-16 color-b'>Adventure</span> is a lifestyle!</p>
                 {/* <p className='HomeHeroSlogan'>Nevado, Páramo, Cocora... </p> */}
                 <p className='HomeHeroMessageP3 ' >come <span className='color-b font-600'>live!</span> </p>
