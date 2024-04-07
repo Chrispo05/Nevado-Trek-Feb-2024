@@ -5,8 +5,8 @@
 const tourNevado = {
     nameESP: "Nevado del Tolima",
     nameENG: "Nevado del tolima",
-    priceCOP: "$ 900.000 COP",
-    priceUSD: "$ 650 USD",
+    priceCOP: "$ 1.480.000 COP",
+    priceUSD: "$ 478,22 USD",
     timeShortESP: "4 Días",
     timeShortENG: "4 Days",
     timeESP: "4 Días | 3 Noches",
@@ -45,8 +45,8 @@ const tourNevado = {
     distance: "60 km",
     latitude: "5.220 mt",
 
-    price1PaxESP: "1.250.000 COP",
-    price1PaxUSD: "650 USD",
+    price1PaxESP: "1.480.000 COP",
+    price1PaxUSD: "478.22 USD",
 
     price2to4: "620.000 COP",
     price2to4USD: "550 USD",
@@ -165,8 +165,8 @@ const tourNevado = {
 const tourParamillo = {
     nameESP: "Paramillo del Quindío",
     nameENG: "Paramillo del Quindío",
-    priceCOP: "$ 900.000 COP",
-    priceUSD: "$ 650 USD",
+    priceCOP: "$ 880.000 COP",
+    priceUSD: "$ 233,35 USD",
     timeShortESP: "3 Días",
     timeShortENG: "3 Days",
     timeESP: "3 Días | 2 Noches",
@@ -205,8 +205,8 @@ const tourParamillo = {
     distance: "40 km",
     latitude: "4.750 mt",
 
-    price1PaxESP: "1.250.000 COP",
-    price1PaxUSD: "650 USD",
+    price1PaxESP: "880.000 COP",
+    price1PaxUSD: "233,35 USD",
 
     price2to4: "620.000 COP",
     price2to4USD: "550 USD",
@@ -297,8 +297,8 @@ const tourParamillo = {
 const tourParamo = {
     nameESP: "Páramo",
     nameENG: "Páramo",
-    priceCOP: "$ 900.000 COP",
-    priceUSD: "$ 650 USD",
+    priceCOP: "$ 550.000 COP",
+    priceUSD: "$ 145,84 USD",
     timeShortESP: "2 Días",
     timeShortENG: "2 Days",
     timeESP: "2 Días | 1 Noches",
@@ -337,8 +337,8 @@ const tourParamo = {
     distance: "30 km",
     latitude: "4.000 mt",
 
-    price1PaxESP: "1.250.000 COP",
-    price1PaxUSD: "650 USD",
+    price1PaxESP: "550.000 COP",
+    price1PaxUSD: "145,84 USD",
 
     price2to4: "620.000 COP",
     price2to4USD: "550 USD",
@@ -419,8 +419,8 @@ const tourParamo = {
 const tourTapir = {
     nameESP: "Ruta Tapir",
     nameENG: "Ruta Tapir",
-    priceCOP: "$ 900.000 COP",
-    priceUSD: "$ 650 USD",
+    priceCOP: "$ 990.000 COP",
+    priceUSD: "$ 260 USD",
     timeShortESP: "3 Días",
     timeShortENG: "3 Days",
     timeESP: "3 Días | 2 Noches",
@@ -459,8 +459,8 @@ const tourTapir = {
     distance: "45 km",
     latitude: "4.300 mt",
 
-    price1PaxESP: "1.250.000 COP",
-    price1PaxUSD: "650 USD",
+    price1PaxESP: "990.000 COP",
+    price1PaxUSD: "260 USD",
 
     price2to4: "620.000 COP",
     price2to4USD: "550 USD",
@@ -546,8 +546,8 @@ const tourTapir = {
 const tourCocora = {
     nameESP: "Valle de Cocora",
     nameENG: "Valle de Cocora",
-    priceCOP: "$ 900.000 COP",
-    priceUSD: "$ 650 USD",
+    priceCOP: "$ 300.000",
+    priceUSD: "$ 79,55 USD",
     timeShortESP: "7 Horas",
     timeShortENG: "7 Hours",
     timeESP: "7 Horas",
@@ -588,8 +588,8 @@ const tourCocora = {
     distance: "13 km",
     latitude: "2.400 mt",
 
-    price1PaxESP: "1.250.000 COP",
-    price1PaxUSD: "650 USD",
+    price1PaxESP: "300.000 COP",
+    price1PaxUSD: "79.55 USD",
 
     price2to4: "620.000 COP",
     price2to4USD: "550 USD",
@@ -656,8 +656,8 @@ const tourCocora = {
 const tourCarbonera = {
     nameESP: "La Carbonera",
     nameENG: "La Carbonera",
-    priceCOP: "$ 900.000 COP",
-    priceUSD: "$ 650 USD",
+    priceCOP: "$ 310.000 COP",
+    priceUSD: "$ 82,20 USD",
     timeShortESP: "12 Horas",
     timeShortENG: "12 Hours",
     timeESP: "12 Horas",
@@ -696,8 +696,8 @@ const tourCarbonera = {
     distance: "15 km",
     latitude: "3.280 mt",
 
-    price1PaxESP: "1.250.000 COP",
-    price1PaxUSD: "650 USD",
+    price1PaxESP: "310.000 COP",
+    price1PaxUSD: "82,20 USD",
 
     price2to4: "620.000 COP",
     price2to4USD: "550 USD",

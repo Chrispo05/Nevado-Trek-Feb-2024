@@ -159,11 +159,17 @@
     
 }
 
+
 .TourPagePriceSectionButtonP{
     
     padding-top: .5em !important;
 }
 
+
+.reservation-button:hover{
+    background-color: var(--color-b);
+    color: var(--color-e)!important;
+}
 .control-next, .control-prev{
     
    
@@ -208,7 +214,7 @@ experience section */
 }
 
 .TourPagePriceSection2Container div a{
-    margin-bottom: 1em;
+
     margin-left: 0px;
 }
 
@@ -250,15 +256,16 @@ experience section */
     
     border-radius: 14px;
 
-    padding-bottom: .3em;
+    
 
     
 }
 .TourPageInfoSectionTitle{
     background-color: var(--color-a);
     padding-left: .5em;
-    padding-right: .5em;
+    padding-right: 1em;
     padding-top: .2em;
+    padding-bottom: .2em;
     
 }
 
@@ -274,6 +281,7 @@ experience section */
 
 .TourPageInfoSectionReserveButtonExpandible{
     background-color: var(--color-b);
+    padding-bottom: 6px;
 }
 
 .TourPageExperienceSectionContainer-show{
@@ -327,13 +335,15 @@ experience section */
 .TourPagePriceSection2Container{
    
     border-radius: 14px;
-   
+    margin-bottom: 0px !important;
+
+    
 }
 
 .TourPagePriceSection2Container p{
     padding-top: 0;
     margin-top: .4em;
-    
+   width: 100-5;
 }
 
 .TourPagePriceText{
@@ -435,10 +445,21 @@ experience section */
     }
     } 
 
-
+    .Price-Mobile{
+       
+    
+        
+    }
+    .price-mobile__button-container{
+        padding: 8px;
+        
+    }
 
   
   @media screen and (min-width: 500px) {
+
+
+
     .TourPageInfoSectionTitle{
         font-size: 22px;
     }
@@ -527,6 +548,7 @@ experience section */
         display: flex;
         position: sticky;
         top: 50%;
+      
     }
    
     .TourPageExperienceSectionContainer p {

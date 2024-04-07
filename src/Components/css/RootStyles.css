@@ -161,6 +161,11 @@
     display: none;
 }
 
+
+.text-align-center{
+    text-align: center;
+}
+
 .width-98 {
     width: 98%;
 }

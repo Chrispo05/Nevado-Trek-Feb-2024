@@ -16,7 +16,7 @@ import { useEffect } from 'react';
 // logic for the language change
 function handleLanguage(e) { // e.target.value === "eng"? window.location.href = `https://chrispo05.github.io/test8/#/homeeng`: window.location.href = `https://chrispo05.github.io/test8/#`;
     // e.target.value === "eng" ? window.location.href = `/#/homeeng` : window.location.href = `/home/#`;
-    e.target.value === "eng" ? window.location.href = `https://chrispo05.github.io/test8/#/HomeEng` : window.location.href = `https://chrispo05.github.io/test8/#/`;
+    e.target.value === "eng" ? window.location.href = `#/HomeEng` : window.location.href = `#/`;
 
 
 }
